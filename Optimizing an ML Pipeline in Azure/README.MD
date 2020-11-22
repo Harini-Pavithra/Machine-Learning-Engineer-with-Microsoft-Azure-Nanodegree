@@ -85,3 +85,11 @@ AutoML run tried creating different models and also used Voting Ensemble which c
 3. The dataset has Class Imbalance,which can reflect in model’s accuracy,that has to be treated.
 4. Instead of Random Sampling can try out Grid and Bayesian Sampling for tuning Hyperparameters.
 
+## Note
+1. The Architecture diagram, flow diagram and screenshots of ouputs, log file are available in HyperDrive folder.
+2. The Architecture diagram, flow diagram and screenshots of ouputs are available in AutoML folder.
+3. The compute instance screenshot is available in Compute folder.
+4. The dataset screenshot and bankmarkerting_train.csv are available in Dataset folder.
+5. The Experiments screenshot is available in Experiments folder.
+6. The best retrieved models,output screenshot,script file output are available in Outputs folder.
+
