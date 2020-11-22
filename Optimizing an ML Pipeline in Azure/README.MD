@@ -53,7 +53,7 @@ Finally the experiment is being submitted and using the Notebook widget(RunDetai
 
 Screenshots of outputs are available in HyperDrive folder.
 
-![Architecture Diagram](HyperDrive/Hyper Drive Architecture.png)
+![Architecture Diagram](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Optimizing%20an%20ML%20Pipeline%20in%20Azure/HyperDrive/Hyper%20Drive%20Architecture.png)
 
 # AutoML
 
