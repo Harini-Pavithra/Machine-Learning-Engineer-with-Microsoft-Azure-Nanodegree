@@ -90,6 +90,6 @@ AutoML run tried creating different models and also used Voting Ensemble which c
 2. The Architecture diagram, flow diagram and screenshots of ouputs are available in AutoML folder.
 3. The compute instance screenshot is available in Compute folder.
 4. The dataset screenshot and bankmarkerting_train.csv are available in Dataset folder.
-5. The Experiments screenshot is available in Experiments folder.
+5. The Experiments screenshot is available in Experiment folder.
 6. The best retrieved models,output screenshot,script file output are available in Outputs folder.
 
