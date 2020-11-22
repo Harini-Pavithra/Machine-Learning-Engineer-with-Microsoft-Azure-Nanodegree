@@ -53,6 +53,8 @@ Finally the experiment is being submitted and using the Notebook widget(RunDetai
 
 Screenshots of outputs are available in HyperDrive folder.
 
+![Architecture Diagram](HyperDrive/Hyper Drive Architecture.png)
+
 # AutoML
 
 AutoML also referred as Automated machine learning or automated ML, is the process of automating the time consuming, iterative tasks of machine learning model development. Automated ML is applied when you want Azure Machine Learning to train and tune a model for you using the target metric you specify.
