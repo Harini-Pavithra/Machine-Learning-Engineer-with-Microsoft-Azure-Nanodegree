@@ -77,13 +77,19 @@ Thus,there is only a very small difference between AutoML’s model and HyperDri
 
 AutoML run tried creating different models and also used Voting Ensemble which combines the predictions from multiple other models. It is a technique that may be used to improve model performance, ideally achieving better performance than any single model used in the ensemble. But in HyperDrive run,Logistic Regression is used so,multiple models can’t be created  for the pipeline.
 
+The Architecture of both the models(AutoML and HyperDrive) are different.AutoML model simply retrieves the training data from the URL, sets AutoMLConfig then the AutoML is submitted to get the best model but in HyperDrive,the training script(train.py) is modified,URL and Logistic Regression class is defined then it is passed to HperDriveConfig, before that the HyperParameters are tuned.
+
+AutoML's experiment timeout (set as 30 mintues) is more so, it uses lots of model with different pre-processing techniques to get a best model accuracy but in HyperDrive it needs to create new pipeline for each model.If we increase the experiment timeout, we could possibly get best model with more accuracy rate.Thus,AutoML has lot of possibilities to use more models and obtain best accuracy rate than HyperDrive.
+
 
 ## Future work
 
-1. Different algorithms can be used for HyperDrive run so that we can find out best Hyperparameters.
-2. Increasing the estimate timeout for autoML to find out best model with high accuaracy.
-3. The dataset has Class Imbalance,which can reflect in model’s accuracy,that has to be treated.
-4. Instead of Random Sampling can try out Grid and Bayesian Sampling for tuning Hyperparameters.
+1.Different algorithms can be used for HyperDrive run and also instead of Random Sampling we can try out Grid and Bayesian Sampling for tuning Hyperparameters,so that we can find out best Hyperparameters in order to get best accuracy for the dataset(bankmarkerting_train.csv)
+2. Increasing the estimate timeout for autoML to find best model.Thus a longer timeout will have greater number of models to run and thus higher the performance rate too.
+3. The dataset has Class Imbalance,which can reflect in model’s accuracy,which can be treated with SMOTE,ADASYN sampling methods and also we can modify the experiments with other hyperparameters and increase the cross validation to enhance models performance, generalization and accuracy rate.
+4.By validating more metrics, we could get better model with best accuracy rate.AUC_weighted which is used to get the arithmetic mean of the score for each class can be weighted and analysed for futher improvements and model training.
+
+## Proof of cluster clean up
 
 ## Note
 1. The Architecture diagram, flow diagram and screenshots of ouputs, log file are available in HyperDrive folder.
@@ -92,4 +98,4 @@ AutoML run tried creating different models and also used Voting Ensemble which c
 4. The dataset screenshot and bankmarkerting_train.csv are available in Dataset folder.
 5. The Experiments screenshot is available in Experiment folder.
 6. The best retrieved models,output screenshot,script file output are available in Outputs folder.
-
+7.Proof of Cluster deletion is available in Compute folder.
