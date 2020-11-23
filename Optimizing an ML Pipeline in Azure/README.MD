@@ -90,6 +90,7 @@ AutoML's experiment timeout (set as 30 mintues) is more so, it uses lots of mode
 4. By validating more metrics, we could get better model with best accuracy rate.AUC_weighted which is used to get the arithmetic mean of the score for each class can be weighted and analysed for futher improvements and model training.
 
 ## Proof of cluster clean up
+The cluster is selected and then deleted with the help of option avaliable in Compute tab.Screenshot available in Compute folder.
 
 ## Note
 1. The Architecture diagram, flow diagram and screenshots of ouputs, log file are available in HyperDrive folder.
