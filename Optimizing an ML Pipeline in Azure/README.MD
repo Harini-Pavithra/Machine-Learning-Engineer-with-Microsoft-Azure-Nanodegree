@@ -77,7 +77,7 @@ Thus,there is only a very small difference between AutoML’s model and HyperDri
 
 AutoML run tried creating different models and also used Voting Ensemble which combines the predictions from multiple other models. It is a technique that may be used to improve model performance, ideally achieving better performance than any single model used in the ensemble. But in HyperDrive run,Logistic Regression is used so,multiple models can’t be created  for the pipeline.
 
-The Architecture of both the models(AutoML and HyperDrive) are different.AutoML model simply retrieves the training data from the URL, sets AutoMLConfig then the AutoML is submitted to get the best model but in HyperDrive,the training script(train.py) is modified,URL and Logistic Regression class is defined then it is passed to HperDriveConfig, before that the HyperParameters are tuned.
+The Architecture of both the models(AutoML and HyperDrive) are different.AutoML model retrieves the training data from the URL,performs cleaning and pre-processing of data then sets AutoMLConfig,finally the AutoML is submitted to get the best model but in HyperDrive,the training script(train.py) is modified,URL and Logistic Regression class is defined then it is passed to HperDriveConfig, before that the HyperParameters are tuned.
 
 AutoML's experiment timeout (set as 30 mintues) is more so, it uses lots of model with different pre-processing techniques to get a best model accuracy but in HyperDrive it needs to create new pipeline for each model.If we increase the experiment timeout, we could possibly get more best model with high accuracy rate.Thus,AutoML has lot of possibilities to use more models and obtain best accuracy rate than HyperDrive.
 
@@ -90,7 +90,8 @@ AutoML's experiment timeout (set as 30 mintues) is more so, it uses lots of mode
 4. By validating more metrics, we could get better model with best accuracy rate.AUC_weighted which is used to get the arithmetic mean of the score for each class can be weighted and analysed for futher improvements and model training.
 
 ## Proof of cluster clean up
-The cluster is selected and then deleted with the help of option avaliable in Compute tab.Screenshot available in Compute folder.
+The cluster is selected and then deleted with the help of option avaliable in Compute tab.
+![Cluster Delete]()
 
 ## Note
 1. The Architecture diagram, flow diagram and screenshots of ouputs, log file are available in HyperDrive folder.
