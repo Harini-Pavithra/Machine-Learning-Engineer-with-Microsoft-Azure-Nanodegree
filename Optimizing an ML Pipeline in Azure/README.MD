@@ -91,7 +91,7 @@ AutoML's experiment timeout (set as 30 mintues) is more so, it uses lots of mode
 
 ## Proof of cluster clean up
 The cluster is selected and then deleted with the help of option avaliable in Compute tab.
-![Cluster Delete]()
+![Cluster Delete](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Optimizing%20an%20ML%20Pipeline%20in%20Azure/Compute/Compute%20Delete.JPG)
 
 ## Note
 1. The Architecture diagram, flow diagram and screenshots of ouputs, log file are available in HyperDrive folder.
