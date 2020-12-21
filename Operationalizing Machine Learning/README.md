@@ -14,4 +14,4 @@ In this project, we will work with the Bank Marketing dataset. we will use Azure
 
 # Architectural Diagram
 
-[https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Architecture%20Diagram/Architecture_Diagram.png]
+![Architecture_Diagram](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Architecture%20Diagram/Architecture_Diagram.png)
