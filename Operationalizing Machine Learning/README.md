@@ -15,7 +15,7 @@ In this project, we will work with the [Bank Marketing dataset](https://github.c
 # Architectural Diagram
 
 ## Steps Involved in Azure ML Studio
-[Azure ML Studio]()
+![Azure_ML_Studio](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Architecture%20Diagram/Azure_ML_Studio.JPG)
 
 ### Explanation
 
