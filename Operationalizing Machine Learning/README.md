@@ -14,16 +14,16 @@ In this project, we will work with the [Bank Marketing dataset](https://github.c
 
 # Architectural Diagram
 
-## Architecture Diagram of Main Steps Involved
-![Architecture_Diagram](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Architecture%20Diagram/Architecture_Diagram.png)
+## Steps Involved in Azure ML Studio
+[Azure ML Studio]()
 
 ### Explanation
 
-These are the main steps that are involved in Operationalizing Machine Learning with Microsoft Azure project, which is followed step by step.
 
-## Architecture Diagram of Steps Involved in Azure ML Studio
-### Explanation
-## Architecture Diagram of Steps Involved in Python SDK
+## Steps Involved in Python SDK
+[Python SDK]()
+
+
 ### Explanation
 
 # Steps in Detail
