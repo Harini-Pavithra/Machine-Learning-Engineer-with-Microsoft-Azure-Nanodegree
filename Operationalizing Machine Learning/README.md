@@ -21,7 +21,7 @@ In this project, we will work with the [Bank Marketing dataset](https://github.c
 
 
 ## Steps Involved in Python SDK
-[Python SDK]()
+![Python_SDK](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Architecture%20Diagram/Python_SDK.JPG)
 
 
 ### Explanation
