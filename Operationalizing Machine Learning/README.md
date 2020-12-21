@@ -28,7 +28,7 @@ These are the main steps that are involved in Operationalizing Machine Learning 
 
 # Steps in Detail
 
-## 1. Authentication
+## Step 1: Authentication
 
 Udacity Classroom - "If you are using the lab Udacity provided to you, you can skip this step since you are not authorized to create a security principal".So, this step is skipped 
 
