@@ -1,6 +1,6 @@
 # Operationalizing Machine Learning with Microsoft Azure
 
-In this project, we will work with the Bank Marketing dataset. we will use Azure to configure a cloud-based machine learning production model, deploy it, and consume it. we will also create, publish, and consume a pipeline. 
+In this project, we will work with the ![Bank Marketing dataset](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/tree/main/Operationalizing%20Machine%20Learning/Dataset). we will use Azure to configure a cloud-based machine learning production model, deploy it, and consume it. we will also create, publish, and consume a pipeline. 
 
 # Steps Involved
 
