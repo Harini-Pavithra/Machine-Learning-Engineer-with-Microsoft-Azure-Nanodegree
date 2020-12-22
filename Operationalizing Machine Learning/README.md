@@ -86,8 +86,21 @@ All screenshots of Step 3 are available in [Step 3 Output](https://github.com/Ha
 
 ## Step 4:Enable logging
 
-Application Insights is a very useful tool to detect anomalies, visualize performance. It can be enabled before or after a deployment. To enable Application Insights after a model is deployed, you can use the below command with the python SDK. In the next section, you will learn how to do it.The script file logs.py is modified and executed with the help of config.json file.
+Application Insights is a very useful tool to detect anomalies, visualize performance. It can be enabled before or after a deployment. 
 
+1.config.json file is downloaded and placed in the same directory.
+
+![]()
+
+2.To enable insights, the script file logs.py is modified and executed
+
+![]()
+
+3.After running it once again to enable insights. The Attributes page should show Insights is now enabled for the deployed model.
+
+![]()
+
+All screenshots of Step 4 are available in [Step 4 Output]()
 ## Step 5:Swagger Documentation
 
 Swagger is a tool that helps build, document, and consume RESTful web services like the ones you are deploying in Azure ML Studio. It further explains what types of HTTP requests that an API can consume, like POST and GET.Azure provides a swagger.json that is used to create a web site that documents the HTTP endpoint for a deployed model.The port of swagger.sh file is changed and execcuted when docker is running,similarly the se  .py file is executed and verified.
