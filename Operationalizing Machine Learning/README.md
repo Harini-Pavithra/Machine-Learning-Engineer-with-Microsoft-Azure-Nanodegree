@@ -105,7 +105,21 @@ Application Insights is a very useful tool to detect anomalies, visualize perfor
 All screenshots of Step 4 are available in [Step 4 Output](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/tree/main/Operationalizing%20Machine%20Learning/Step%204%20Outputs)
 ## Step 5:Swagger Documentation
 
-Swagger is a tool that helps build, document, and consume RESTful web services like the ones you are deploying in Azure ML Studio. It further explains what types of HTTP requests that an API can consume, like POST and GET.Azure provides a swagger.json that is used to create a web site that documents the HTTP endpoint for a deployed model.The port of swagger.sh file is changed and execcuted when docker is running,similarly the se  .py file is executed and verified.
+Swagger is a tool that helps build, document, and consume RESTful web services like the ones you are deploying in Azure ML Studio. It further explains what types of HTTP requests that an API can consume, like POST and GET.Azure provides a swagger.json that is used to create a web site that documents the HTTP endpoint for a deployed model.
+
+1.swagger.json is placed in the same directory.
+
+![]()
+
+2.swagger.sh is executed when docker is running which will download the latest Swagger container, and it will run it on port 9000.
+
+![]()
+
+3.serve.py is executed and it will start a Python server on port 8000. This script needs to be right next to the downloaded swagger.json file
+
+![]()
+
+All screenshots of Step 5 are available in [Step 5 Output]()
 
 ## Step 6:Consume model endpoints
 
