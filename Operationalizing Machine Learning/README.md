@@ -43,7 +43,19 @@ Udacity Classroom - "If you are using the lab Udacity provided to you, you can s
 
 ## Step 2:Automated ML Experiment
 
-A new AutoML model is created,next the dataset is selceted which is already registered and uploaded Via URI(https://automlsamplenotebookdata.blob.core.windows.net/automl-sample-notebook-data/bankmarketing_train.csv),then we create a cluster,we use this cluster to run the autoML experiment.After the AutoML experiment run completes, a summary of all the models and their metrics are shown, including explanations.Next the best model is retrived.
+1.A new AutoML model is created.
+
+2.Next the dataset is selceted which is already registered and uploaded Via URI(https://automlsamplenotebookdata.blob.core.windows.net/automl-sample-notebook-data/bankmarketing_train.csv)
+![1.Selecting_Dataset](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%202%20Output/1.Selecting_Dataset.JPG)
+
+3.Then we create a cluster,we use this cluster to run the autoML experiment.
+![2.Creating_Cluster]()
+
+4.The run is configured and task type is selected
+
+5.After the AutoML experiment run completes, a summary of all the models and their metrics are shown, including explanations.
+
+6.Next the best model is retrived.
 
 ## Step 3:Deploy the best model
 
