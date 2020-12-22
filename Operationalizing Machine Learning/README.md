@@ -90,17 +90,19 @@ Application Insights is a very useful tool to detect anomalies, visualize perfor
 
 1.config.json file is downloaded and placed in the same directory.
 
-![]()
+![1.Config_file](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%204%20Outputs/1.Config_file.jpg)
 
 2.To enable insights, the script file logs.py is modified and executed
 
-![]()
+![2.Enabling](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%204%20Outputs/2.Enabling.JPG)
+
+![3.Script_Execution](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%204%20Outputs/3.Script_Execution.JPG)
 
 3.After running it once again to enable insights. The Attributes page should show Insights is now enabled for the deployed model.
 
-![]()
+![5.Enabled](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%204%20Outputs/5.Enabled.JPG)
 
-All screenshots of Step 4 are available in [Step 4 Output]()
+All screenshots of Step 4 are available in [Step 4 Output](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/tree/main/Operationalizing%20Machine%20Learning/Step%204%20Outputs)
 ## Step 5:Swagger Documentation
 
 Swagger is a tool that helps build, document, and consume RESTful web services like the ones you are deploying in Azure ML Studio. It further explains what types of HTTP requests that an API can consume, like POST and GET.Azure provides a swagger.json that is used to create a web site that documents the HTTP endpoint for a deployed model.The port of swagger.sh file is changed and execcuted when docker is running,similarly the se  .py file is executed and verified.
