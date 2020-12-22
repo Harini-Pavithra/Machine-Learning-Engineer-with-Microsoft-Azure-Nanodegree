@@ -131,9 +131,15 @@ You can consume a deployed service via an HTTP API. An HTTP API is a URL that is
 Users can initiate an input request, usually via an HTTP POST request. HTTP POST is a request method that is used to submit data. The HTTP GET is another commonly used request method. HTTP GET is used to retrieve information from a URL. The allowed requests methods and the different URLs exposed by Azure create a bi-directional flow of information.
 The APIs exposed by Azure ML will use JSON (JavaScript Object Notation) to accept data and submit responses. It served as a bridge language among different environments.
 
-The endpoint.py file is 
-The benchmark.sh 
+1.Using the provided endpoint.py replaced the scoring_uri and key to match the REST endpoint and primary key respectively. The script issues a POST request to the deployed model and gets a JSON response that gets printed to the terminal.
 
+![]()
+
+2.A data.json file will appear after we run endpoint.py
+
+![]()
+
+All screenshots of Step 6 are available in [Step 6 Outputs]()
 
 ## Step 7:Create and publish a pipeline
 
