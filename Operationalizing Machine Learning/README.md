@@ -155,9 +155,22 @@ All screenshots of Step 6 are available in [Step 6 Outputs](https://github.com/H
 
 ## Step 7:Create and publish a pipeline
 
+1. The file uploaded to Python SDK and created cluster to execute file.
 
+![]()
 
+2. The cells are executed one by one and AutoML run is completed.
+
+![]()
+
+3. Then we retrive the best model,next it is published and consumed.
+
+![]()
 
 # Future Improvements
+
+1. The accuracy of the model can be improved by solving the class imbalance issue in dataset.
+2. Increasing the number of cross validation can improve accuracy
+3. Trying deep Learning algorithms which is not used by the  AutoML in the runs.
 
 # Screencast Video
