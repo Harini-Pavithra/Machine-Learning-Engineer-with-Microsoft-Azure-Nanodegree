@@ -133,25 +133,25 @@ The APIs exposed by Azure ML will use JSON (JavaScript Object Notation) to accep
 
 1.Using the provided endpoint.py replaced the scoring_uri and key to match the REST endpoint and primary key respectively. The script issues a POST request to the deployed model and gets a JSON response that gets printed to the terminal.
 
-![]()
+![Script_update](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%206%20Outputs/Script_update.JPG)
 
 2.A data.json file will appear after we run endpoint.py
 
-![]()
+![Script_Output](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%206%20Outputs/Script_Output.JPG)
+
+![data_json_file](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%206%20Outputs/data_json_file.JPG)
 
 ## Benchmark
 
 A benchmark is used to create a baseline or acceptable performance measure. Benchmarking HTTP APIs is used to find the average response time for a deployed model.One of the most significant metrics is the response time since Azure will timeout if the response times are longer than sixty seconds.Apache Benchmark is an easy and popular tool for benchmarking HTTP services.
 
-1. Verified whether the Apache Benchmark command-line tool installed and available in the path
+1. Benchmark file is executed and output is verified
 
-![]()
+![Benchmarch](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%206%20Outputs/Benchmark/Benchmarch.JPG)
 
-2. Benchmark file is executed and output is verified
+![Benchmark_output](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%206%20Outputs/Benchmark/Benchmark_output.JPG)
 
-![]()
-
-All screenshots of Step 6 are available in [Step 6 Outputs]()
+All screenshots of Step 6 are available in [Step 6 Outputs](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/tree/main/Operationalizing%20Machine%20Learning/Step%206%20Outputs)
 
 ## Step 7:Create and publish a pipeline
 
