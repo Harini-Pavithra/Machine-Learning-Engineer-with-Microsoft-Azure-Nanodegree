@@ -56,7 +56,7 @@ Udacity Classroom - "If you are using the lab Udacity provided to you, you can s
 
 5. After the AutoML experiment run completes, a summary of all the models and their metrics are shown, including explanations.
 ![10.AutoML_Run_Completed](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%202%20Output/10.AutoML_Run_Completed.JPG)
-
+![13.List_Of_Models](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%202%20Output/13.List_Of_Models.JPG)
 
 6. Next the best model is retrived.
 ![11.Best_Model](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%202%20Output/11.Best_Model.JPG)
