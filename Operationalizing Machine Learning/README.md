@@ -61,6 +61,8 @@ Udacity Classroom - "If you are using the lab Udacity provided to you, you can s
 6. Next the best model is retrived.
 ![11.Best_Model](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%202%20Output/11.Best_Model.JPG)
 
+The outputs of this step are in [Step 2 Output](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/tree/main/Operationalizing%20Machine%20Learning/Step%202%20Output)
+
 ## Step 3:Deploy the best model
 
 Under the Experiments section,go to the "Model" tab and select the model with highest accuracy.Click on deploy option available and fill out the form with a meaningful name and description. For Compute Type select Azure Container Instance (ACI) and enable Authentication.Deployment takes a few seconds. After a successful deployment,  the "Deploy status" will show as succeed and condition will be changed to "Healthy" from "Transistion".
