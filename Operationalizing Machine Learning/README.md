@@ -49,13 +49,16 @@ Udacity Classroom - "If you are using the lab Udacity provided to you, you can s
 ![1.Selecting_Dataset](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%202%20Output/1.Selecting_Dataset.JPG)
 
 3.Then we create a cluster,we use this cluster to run the autoML experiment.
-![2.Creating_Cluster]()
+![4.Creating_Cluster](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%202%20Output/4.Creating_Cluster.JPG)
 
 4.The run is configured and task type is selected
+![3.Configure_Settings](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%202%20Output/3.Configure_Settings.JPG)
 
 5.After the AutoML experiment run completes, a summary of all the models and their metrics are shown, including explanations.
+![10.AutoML_Run_Completed](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%202%20Output/10.AutoML_Run_Completed.JPG)
 
 6.Next the best model is retrived.
+![11.Best_Model](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%202%20Output/11.Best_Model.JPG)
 
 ## Step 3:Deploy the best model
 
