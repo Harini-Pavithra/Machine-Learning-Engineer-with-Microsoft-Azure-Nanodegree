@@ -22,7 +22,7 @@ The Dataset used here is bankmarkerting_train.csv, it is a UCI Dataset, which co
 
 ### Explanation
 
-After authenticating,a new AutoML experiment is created which includes,importing the dataset,setting up the environmet for AutoML run.After the run is completed,the best model is identified and deployed with Azure Container Instance,then the application insights are enabled using script file(logs.py).The next step is creating swagger documentation which is helpful to check if the model can get POST request and respond back.It is done with the help of swagger.json file,downloaded via SWagger URI. 
+After authenticating,a new AutoML experiment is created which includes,importing the dataset,setting up the environmet for AutoML run.After the run is completed,the best model is identified and deployed with Azure Container Instance,then the application insights are enabled using script file(logs.py).The next step is creating swagger documentation which is helpful to check if the model can get POST request and respond back.It is done with the help of swagger.json file,downloaded via SWagger URI. Next step is to consume the model via endpoint.py and benchmarking is done via benchmark.sh files.Finally the pipeline is created,published and consumed.
 .
 
 ## Steps Involved in Python SDK
@@ -31,7 +31,7 @@ After authenticating,a new AutoML experiment is created which includes,importing
 
 ### Explanation
 
-In notebook section we first upload the python file(aml-pipelines-with-automated-machine-learning-step.py),once it is uploaded we create a cluster to execute the python file.After initializing the workspace, we create a new or use existing AutoML experiment followed by creating or attaching the existing cluster.Then we load the dataset(bankmarkerting_train.csv),once the dataset is loaded,the model is trained with different models and scaling methods,then the best model is retrived and deployed with Azure Container Instance and finally the model is consumed via the REST endpoint.Next step is to consume the model via endpoint.py and benchmarking is done via benchmark.sh files.Finally the pipeline is created,published and consumed.
+In notebook section we first upload the python file(aml-pipelines-with-automated-machine-learning-step.py),once it is uploaded we create a cluster to execute the python file.After initializing the workspace, we create a new or use existing AutoML experiment followed by creating or attaching the existing cluster.Then we load the dataset(bankmarkerting_train.csv),once the dataset is loaded,the model is trained with different models and scaling methods,then the best model is retrived and deployed with Azure Container Instance and finally the model is consumed via the REST endpoint.
 
 # Steps in Detail
 
