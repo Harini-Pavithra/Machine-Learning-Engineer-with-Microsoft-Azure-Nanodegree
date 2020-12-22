@@ -141,6 +141,8 @@ The APIs exposed by Azure ML will use JSON (JavaScript Object Notation) to accep
 
 ## Benchmark
 
+A benchmark is used to create a baseline or acceptable performance measure. Benchmarking HTTP APIs is used to find the average response time for a deployed model.One of the most significant metrics is the response time since Azure will timeout if the response times are longer than sixty seconds.Apache Benchmark is an easy and popular tool for benchmarking HTTP services.
+
 1. Verified whether the Apache Benchmark command-line tool installed and available in the path
 
 ![]()
