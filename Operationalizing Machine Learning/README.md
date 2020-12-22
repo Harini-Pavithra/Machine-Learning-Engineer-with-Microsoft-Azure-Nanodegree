@@ -52,7 +52,7 @@ Udacity Classroom - "If you are using the lab Udacity provided to you, you can s
 ![4.Creating_Cluster](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%202%20Output/4.Creating_Cluster.JPG)
 
 4.The run is configured and task type is selected
-![3.Configure_Settings](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%202%20Output/3.Configure_Settings.JPG)
+![7.Selecting_Task_type](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%202%20Output/7.Selecting_Task_type.JPG)
 
 5.After the AutoML experiment run completes, a summary of all the models and their metrics are shown, including explanations.
 ![10.AutoML_Run_Completed](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%202%20Output/10.AutoML_Run_Completed.JPG)
