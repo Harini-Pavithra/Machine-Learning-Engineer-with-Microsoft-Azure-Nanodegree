@@ -46,19 +46,25 @@ Udacity Classroom - "If you are using the lab Udacity provided to you, you can s
 1. A new AutoML model is created.
 
 2. Next the dataset is selceted which is already registered and uploaded Via URI(https://automlsamplenotebookdata.blob.core.windows.net/automl-sample-notebook-data/bankmarketing_train.csv)
+
 ![1.Selecting_Dataset](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%202%20Output/1.Selecting_Dataset.JPG)
 
 3. Then we create a cluster,we use this cluster to run the autoML experiment.
+
 ![4.Creating_Cluster](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%202%20Output/4.Creating_Cluster.JPG)
 
 4. The run is configured and task type is selected
+
 ![7.Selecting_Task_type](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%202%20Output/7.Selecting_Task_type.JPG)
 
 5. After the AutoML experiment run completes, a summary of all the models and their metrics are shown, including explanations.
+
 ![10.AutoML_Run_Completed](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%202%20Output/10.AutoML_Run_Completed.JPG)
+
 ![13.List_Of_Models](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%202%20Output/13.List_Of_Models.JPG)
 
 6. Next the best model is retrived.
+
 ![11.Best_Model](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%202%20Output/11.Best_Model.JPG)
 
 All screenshots of Step 2 are available in [Step 2 Output](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/tree/main/Operationalizing%20Machine%20Learning/Step%202%20Output)
@@ -69,9 +75,14 @@ All screenshots of Step 2 are available in [Step 2 Output](https://github.com/Ha
 
 2.Click on deploy option available and fill out the form with a meaningful name and description. For Compute Type select Azure Container Instance (ACI) and enable Authentication.
 
+![3.Deployement_Success](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%203%20Outputs/3.Deployement_Success.JPG)
+
 3.Deployment takes a few seconds. After a successful deployment, the "Deploy status" will show as succeed and condition will be changed to "Healthy" from "Transistion".
 
-All screenshots of Step 3 are available in [Step 3 Output]
+![4.Healthy_State](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%203%20Outputs/4.Healthy_State.JPG
+)
+
+All screenshots of Step 3 are available in [Step 3 Output](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/tree/main/Operationalizing%20Machine%20Learning/Step%203%20Outputs)
 
 ## Step 4:Enable logging
 
