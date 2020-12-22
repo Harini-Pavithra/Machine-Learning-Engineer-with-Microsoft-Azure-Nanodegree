@@ -139,6 +139,16 @@ The APIs exposed by Azure ML will use JSON (JavaScript Object Notation) to accep
 
 ![]()
 
+## Benchmark
+
+1. Verified whether the Apache Benchmark command-line tool installed and available in the path
+
+![]()
+
+2. Benchmark file is executed and output is verified
+
+![]()
+
 All screenshots of Step 6 are available in [Step 6 Outputs]()
 
 ## Step 7:Create and publish a pipeline
