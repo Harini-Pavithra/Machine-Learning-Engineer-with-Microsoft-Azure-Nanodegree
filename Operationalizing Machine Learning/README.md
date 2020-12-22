@@ -109,17 +109,21 @@ Swagger is a tool that helps build, document, and consume RESTful web services l
 
 1.swagger.json is placed in the same directory.
 
-![]()
+![1.Swagger_file](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%205%20Outputs/1.Swagger_file.jpg)
 
 2.swagger.sh is executed when docker is running which will download the latest Swagger container, and it will run it on port 9000.
 
-![]()
+![2.Swagger_Execution](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%205%20Outputs/2.Swagger_Execution.JPG)
+
+![4.Localhost_Run](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%205%20Outputs/4.Localhost_Run.JPG)
 
 3.serve.py is executed and it will start a Python server on port 8000. This script needs to be right next to the downloaded swagger.json file
 
-![]()
+![5.Script_Execution](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%205%20Outputs/5.Script_Execution.JPG)
 
-All screenshots of Step 5 are available in [Step 5 Output]()
+![6.Swager_output](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%205%20Outputs/6.Swager_output.JPG)
+
+All screenshots of Step 5 are available in [Step 5 Outputs](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/tree/main/Operationalizing%20Machine%20Learning/Step%205%20Outputs)
 
 ## Step 6:Consume model endpoints
 
