@@ -45,6 +45,8 @@ Udacity Classroom - "If you are using the lab Udacity provided to you, you can s
 
 1. A new AutoML model is created.
 
+![New_AutoML](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%202%20Output/New_AutoML.JPG)
+
 2. Next the dataset is selceted which is already registered and uploaded Via URI(https://automlsamplenotebookdata.blob.core.windows.net/automl-sample-notebook-data/bankmarketing_train.csv)
 
 ![1.Selecting_Dataset](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%202%20Output/1.Selecting_Dataset.JPG)
