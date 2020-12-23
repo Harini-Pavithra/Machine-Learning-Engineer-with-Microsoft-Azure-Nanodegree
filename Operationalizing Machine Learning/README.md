@@ -67,6 +67,10 @@ Udacity Classroom - "If you are using the lab Udacity provided to you, you can s
 
 ![11.Best_Model](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%202%20Output/11.Best_Model.JPG)
 
+Registered Dataset:
+
+![Dataset_1](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%202%20Output/Dataset_1.JPG)
+
 All screenshots of Step 2 are available in [Step 2 Output](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/tree/main/Operationalizing%20Machine%20Learning/Step%202%20Output)
 
 ## Step 3:Deploy the best model
