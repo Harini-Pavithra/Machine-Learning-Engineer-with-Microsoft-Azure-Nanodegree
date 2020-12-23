@@ -165,7 +165,7 @@ All screenshots of Step 6 are available in [Step 6 Outputs](https://github.com/H
 
 1. Cluster is created and the file is uploaded.
 
-![Cluster](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/tree/main/Operationalizing%20Machine%20Learning/Compute%20Instance/Cluster.png)
+![Cluster](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Compute%20Instance/Cluster.JPG)
 
 2. The cells are executed one by one and AutoML run is completed.
 
