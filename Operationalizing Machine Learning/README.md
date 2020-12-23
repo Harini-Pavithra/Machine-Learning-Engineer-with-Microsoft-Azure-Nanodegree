@@ -79,6 +79,8 @@ All screenshots of Step 2 are available in [Step 2 Output](https://github.com/Ha
 
 1.Under the Experiments section,go to the "Model" tab and select the model with highest accuracy.
 
+![1.Deployment](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%203%20Outputs/1.Deployment.JPG)
+
 2.Click on deploy option available and fill out the form with a meaningful name and description. For Compute Type select Azure Container Instance (ACI) and enable Authentication.
 
 ![3.Deployement_Success](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%203%20Outputs/3.Deployement_Success.JPG)
