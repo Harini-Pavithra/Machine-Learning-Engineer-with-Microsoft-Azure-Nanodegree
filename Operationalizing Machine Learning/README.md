@@ -163,17 +163,33 @@ All screenshots of Step 6 are available in [Step 6 Outputs](https://github.com/H
 
 ## Step 7:Create and publish a pipeline
 
-1. The file uploaded to Python SDK and created cluster to execute file.
+1. Cluster is created and the file is uploaded.
 
 ![]()
 
 2. The cells are executed one by one and AutoML run is completed.
 
-![]()
+![Run_Details](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%207%20Outputs/Run_Details.JPG)
+
+![Run_Finished](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%207%20Outputs/Run_Finished.JPG)
+
+![Graph_Completed](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%207%20Outputs/Graph_Completed.JPG)
+
+![Pipeline_Completed_1](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%207%20Outputs/Pipeline_Completed_1.JPG)
+
+![Pipelinerun_Graph](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%207%20Outputs/Pipelinerun_Graph.JPG)
+
+![Pipeline_Run](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%207%20Outputs/Pipeline_Run.JPG)
+
+![Pipeline_Endpoint](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%207%20Outputs/Pipeline_Endpoint.JPG)
 
 3. Then we retrive the best model,next it is published and consumed.
 
-![]()
+![Publish_Details](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%207%20Outputs/Publish_Details.JPG)
+
+![Pipeline_Published](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%207%20Outputs/Pipeline_Published.JPG)
+
+![Pipeline_Active](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%207%20Outputs/Pipeline_Active.JPG)
 
 # Future Improvements
 
