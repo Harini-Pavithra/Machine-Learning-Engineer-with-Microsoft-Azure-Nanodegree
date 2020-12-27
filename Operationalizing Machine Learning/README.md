@@ -110,6 +110,8 @@ Application Insights is a very useful tool to detect anomalies, visualize perfor
 
 ![5.Enabled](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%204%20Outputs/5.Enabled.JPG)
 
+![Output](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Step%204%20Outputs/Output.JPG)
+
 All screenshots of Step 4 are available in [Step 4 Output](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/tree/main/Operationalizing%20Machine%20Learning/Step%204%20Outputs)
 ## Step 5:Swagger Documentation
 
