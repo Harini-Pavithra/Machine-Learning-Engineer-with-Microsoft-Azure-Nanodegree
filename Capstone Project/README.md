@@ -118,7 +118,7 @@ Screensots are available in [Model Deployment](https://github.com/Harini-Pavithr
 ## Proof of cluster clean up
 
 The cluster is selected and then deleted with the help of option avaliable in Compute tab. 
-
+![compute_delete](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Capstone%20Project/Compute/compute_delete.JPG)
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
