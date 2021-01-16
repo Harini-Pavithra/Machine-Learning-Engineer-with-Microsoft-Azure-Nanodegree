@@ -61,10 +61,22 @@ The SKLearn estimator is created with the training script(train.py), directory p
 
 Finally the experiment is being submitted and using the Notebook widget(RunDetails(hyperdrive_run).show()), it is visualized. Once the run is successfully completed or executed, the best model is retrieved and saved in output folder in source directory.
 
+![9.Experiment](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Capstone%20Project/HyperDrive/Screenshots/9.Experiment.JPG)
 
+![5.Parameters_Graph](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Capstone%20Project/HyperDrive/Screenshots/5.Parameters_Graph.JPG)
+
+![3.Accuracy](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Capstone%20Project/HyperDrive/Screenshots/3.Accuracy.JPG)
+
+![11.Run_Details](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Capstone%20Project/HyperDrive/Screenshots/11.Run_Details.JPG)
+
+Screenshots are available in (Hyperdrive/Screenshots)[https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/tree/main/Capstone%20Project/HyperDrive/Screenshots] folder
 ### Results
 
 The second model we built is trained with Logistic regression and HyperDrive parameters which are tuned with the help of Azure ML python SDK and HyperDrive tools(Azure HyperDrive functionalities).The best accuracy obtained from this model is 75.75%
+
+![1.HyperDrive_Run](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Capstone%20Project/HyperDrive/Screenshots/1.HyperDrive_Run.JPG)
+
+![2.Best_Metrics](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Capstone%20Project/HyperDrive/Screenshots/2.Best_Metrics.JPG)
 
 The model can be futher improved with the help of tuning other parameters such as the criterion used to define the optimal split and the min/max samples leaf number of samples in the leaf node of each tree.
 
