@@ -32,7 +32,7 @@ For the moodel,trained with HyperDrive functionalities,the dataset is saved in o
 For the model trained with AutoML functionalities, the dataset is registered with the help of "from local files" option and loaded from Azure workspace. 
 
 ## Automated ML
-*TODO*: Give an overview of the `automl` settings and configuration you used for this experiment
+
 AutoML also referred as Automated machine learning or automated ML, is the process of automating the time consuming, iterative tasks of machine learning model development. Automated ML is applied when you want Azure Machine Learning to train and tune a model for you using the target metric you specify.
 
 Initially the dataset(Heart_Failure_Clinical_Records_Dataset.csv) is registered with the help of "from local files" option and loaded from Azure workspace.It is then converted to pandas dataframe,before that the Workspace,experiment and the cluster are created.
@@ -70,7 +70,17 @@ The model can be futher improved with the help of tuning other parameters such a
 
 
 ## Model Deployment
-*TODO*: Give an overview of the deployed model and instructions on how to query the endpoint with a sample input.
+
+HyperDrive’s best run accuracy = 75.75%
+AutoML’s best run accuracy = 86.62%
+Thus,Automl's model has the highest accuracy.The model with the best accuracy is deployped as per the instructions,so the AutoML's best model is deployed.
+
+Initially, the best model is registered and it's necessary files are downloaded.Then the Environment and inference is created with the help of required conda dependencies and score.py script file which has the intialization and exit function defined for the best model and the model is deployed with ACI(Azure Container Instance) and configurations such as cpu_cores=1, memory_gb=1.Once the deployment is sucessful, applications insights is enabled and the state of the service is verified.Then the behaviour of the endpoint is analyzed and the service is deleted
+
+## Proof of cluster clean up
+
+The cluster is selected and then deleted with the help of option avaliable in Compute tab. 
+
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
