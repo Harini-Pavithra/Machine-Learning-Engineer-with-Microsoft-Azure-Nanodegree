@@ -69,7 +69,7 @@ Finally the experiment is being submitted and using the Notebook widget(RunDetai
 
 ![11.Run_Details](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Capstone%20Project/HyperDrive/Screenshots/11.Run_Details.JPG)
 
-Screenshots are available in (Hyperdrive/Screenshots)[https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/tree/main/Capstone%20Project/HyperDrive/Screenshots] folder
+Screenshots are available in [Hyperdrive/Screenshots](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/tree/main/Capstone%20Project/HyperDrive/Screenshots) folder
 ### Results
 
 The second model we built is trained with Logistic regression and HyperDrive parameters which are tuned with the help of Azure ML python SDK and HyperDrive tools(Azure HyperDrive functionalities).The best accuracy obtained from this model is 75.75%
