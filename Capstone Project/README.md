@@ -45,6 +45,8 @@ The models used here are LightGBM,SVM, XGBoostClassifier, RandomForest, VotingEn
 
 Finally the experiment is being submitted and using the Notebook widget(RunDetails(remote_run).show()), it is visualized. Once the run is successfully completed or executed, the best model is retrieved and saved in output folder in source directory.
 
+![AutoML_Config](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Capstone%20Project/AutoML/Screenshots/AutoML_Config.JPG)
+
 ![6.RunDeatils](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Capstone%20Project/AutoML/Screenshots/6.RunDeatils.JPG)
 
 ![8.Data_Guardrails](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Capstone%20Project/AutoML/Screenshots/8.Data_Guardrails.JPG)
@@ -111,6 +113,9 @@ AutoML’s best run accuracy = 87.63%
 Thus,Automl's model has the highest accuracy.The model with the best accuracy is deployped as per the instructions,so the AutoML's best model is deployed.
 
 Initially, the best model is registered and it's necessary files are downloaded.Then the Environment and inference is created with the help of required conda dependencies and score.py script file which has the intialization and exit function defined for the best model and the model is deployed with ACI(Azure Container Instance) and configurations such as cpu_cores=1, memory_gb=1.Once the deployment is sucessful, applications insights is enabled and the state of the service is verified.Then the behaviour of the endpoint is analyzed and the service is deleted
+
+![Sample_Input](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Capstone%20Project/Model%20Deployment/Sample_Input.JPG)
+
 ![1.Model](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Capstone%20Project/Model%20Deployment/1.Model.JPG)
 
 ![2.Model_details](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Capstone%20Project/Model%20Deployment/2.Model_details.JPG)
