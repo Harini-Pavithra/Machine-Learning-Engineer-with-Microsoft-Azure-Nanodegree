@@ -1,6 +1,6 @@
 # Heart Failure Predictions Using Microsoft Azure
 
-This project is part of the Udacity Azure ML Nanodegree.In this project, we will work with the Heart Failure Clinical Records Dataset. we will use Azure to configure a cloud-based machine learning production model and deploy it. we use Hyper Drive and Auto ML methods to develop the model.Then the model with higest accuary is retrieved(voting ensemble in this case) and deployed in cloud with Azure Container Instances(ACI),also by enabling the authentication.
+This project is part of the Udacity Azure ML Nanodegree.In this project, we will work with the Heart Failure Clinical Records Dataset. we will use Azure to configure a cloud-based machine learning production model and deploy it. we use Hyper Drive and Auto ML methods to develop the model.Then the model with higest accuary is retrieved(voting ensemble in this case) and deployed in cloud with Azure Container Instances(ACI) as a webservice,also by enabling the authentication.Once the model is deployed, the behaviour of the endpoint is analysed by getting a response from the service and logs are retrived at the end.
 
 ## Dataset
 
