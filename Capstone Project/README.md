@@ -84,6 +84,8 @@ Finally the experiment is being submitted and using the Notebook widget(RunDetai
 
 ![11.Run_Details](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Capstone%20Project/HyperDrive/Screenshots/11.Run_Details.JPG)
 
+![6.Best_Model](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Capstone%20Project/HyperDrive/Screenshots/6.Best_Model.JPG)
+
 Screenshots are available in [Hyperdrive/Screenshots](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/tree/main/Capstone%20Project/HyperDrive/Screenshots) folder
 ### Results
 
