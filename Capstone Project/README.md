@@ -31,6 +31,8 @@ For the moodel,trained with HyperDrive functionalities,the dataset is saved in o
 
 For the model trained with AutoML functionalities, the dataset is registered with the help of "from local files" option and loaded from Azure workspace. 
 
+![12.Registered_Dataset](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Capstone%20Project/AutoML/Screenshots/12.Registered_Dataset.JPG)
+
 ## Automated ML
 
 AutoML also referred as Automated machine learning or automated ML, is the process of automating the time consuming, iterative tasks of machine learning model development. Automated ML is applied when you want Azure Machine Learning to train and tune a model for you using the target metric you specify.
@@ -50,6 +52,8 @@ Finally the experiment is being submitted and using the Notebook widget(RunDetai
 ![13.DatasetDetails](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Capstone%20Project/AutoML/Screenshots/13.DatasetDetails.JPG)
 
 ![4.Best_Model](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Capstone%20Project/AutoML/Screenshots/4.Best_Model.JPG)
+
+![AutoML_ID](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Capstone%20Project/AutoML/Screenshots/AutoML_ID.JPG)
 
 Screenshots are available in [AutoML/Screenshots](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/tree/main/Capstone%20Project/AutoML/Screenshots) folder
 ### Results
