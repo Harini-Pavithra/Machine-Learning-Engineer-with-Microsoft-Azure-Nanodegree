@@ -54,7 +54,7 @@ Finally the experiment is being submitted and using the Notebook widget(RunDetai
 Screenshots are available in [AutoML/Screenshots](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/tree/main/Capstone%20Project/AutoML/Screenshots) folder
 ### Results
 
-The first model we built is with the help of Azure AutoML for training many types of models such as LightGBM, XGBoostClassifier, RandomForest, VotingEnsemble, StackEnsemble etc.The best accuracy obtained from this model is 88.63%
+The first model we built is with the help of Azure AutoML for training many types of models such as LightGBM, XGBoostClassifier, RandomForest, VotingEnsemble, StackEnsemble etc.The best accuracy obtained from this model is 87.63%
 
 ![1.Run_details](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Capstone%20Project/AutoML/Screenshots/1.Run_details.JPG)
 
@@ -100,7 +100,7 @@ The model can be futher improved with the help of tuning other parameters such a
 
 HyperDrive’s best run accuracy = 75.75%
 
-AutoML’s best run accuracy = 88.63%
+AutoML’s best run accuracy = 87.63%
 
 Thus,Automl's model has the highest accuracy.The model with the best accuracy is deployped as per the instructions,so the AutoML's best model is deployed.
 
