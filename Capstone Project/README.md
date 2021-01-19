@@ -80,7 +80,7 @@ The policy is defined.Bandit policy is used here with slack_factor=0.1,evaluatio
 
 The SKLearn estimator is created with the training script(train.py), directory path and cluster name, then the configurations for runs is created using hyperdrive_run_config with estimator(created using SKLearn),hyperparameter sampling(Random Sampling), policy(Bandit policy) and also included primary metric(Accuracy),it’s goal (Maximize) , maximum total runs(10) and maximum concurrent runs(4).
 
-Finally the experiment is being submitted and using the Notebook widget(RunDetails(hyperdrive_run).show()), it is visualized. Once the run is successfully completed or executed, the best model is retrieved and saved in output folder in source directory.
+Finally the experiment is being submitted and using the Notebook widget(RunDetails(hyperdrive_run).show()), it is visualized. Once the run is successfully completed or executed, the best model is retrieved and saved in output folder in source directory.The saved model then registered.
 
 ![9.Experiment](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Capstone%20Project/HyperDrive/Screenshots/9.Experiment.JPG)
 
@@ -91,6 +91,8 @@ Finally the experiment is being submitted and using the Notebook widget(RunDetai
 ![11.Run_Details](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Capstone%20Project/HyperDrive/Screenshots/11.Run_Details.JPG)
 
 ![6.Best_Model](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Capstone%20Project/HyperDrive/Screenshots/6.Best_Model.JPG)
+
+![HyperDrive_Registered_Model](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Capstone%20Project/HyperDrive/Screenshots/HyperDrive_Registered_Model.JPG)
 
 Screenshots are available in [Hyperdrive/Screenshots](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/tree/main/Capstone%20Project/HyperDrive/Screenshots) folder
 ### Results
