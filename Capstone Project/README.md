@@ -116,6 +116,9 @@ Thus,Automl's model has the highest accuracy.The model with the best accuracy is
 
 Initially, the best model is registered and it's necessary files are downloaded.Then the Environment and inference is created with the help of required conda dependencies and score.py script file which has the intialization and exit function defined for the best model and the model is deployed with ACI(Azure Container Instance) and configurations such as cpu_cores=1, memory_gb=1.Once the deployment is sucessful, applications insights is enabled and the state of the service is verified.Then the behaviour of the endpoint is analyzed and the service is deleted
 
+![Response](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Capstone%20Project/Model%20Deployment/Response.JPG)
+
+![Response_1](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Capstone%20Project/Model%20Deployment/Response_1.JPG)
 
 ![1.Model](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Capstone%20Project/Model%20Deployment/1.Model.JPG)
 
