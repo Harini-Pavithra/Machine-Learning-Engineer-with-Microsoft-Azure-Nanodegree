@@ -140,3 +140,7 @@ The cluster is selected and then deleted with the help of option avaliable in Co
 ## Screen Recording
 
 https://drive.google.com/drive/folders/1NJmS77UnjC37CRvGzWtFLiD544wEg4bR
+
+# Review from Udacity Mentor
+
+![Capstone_Project](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Capstone%20Project/Review/Capstone_Project.JPG)
