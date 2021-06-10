@@ -207,3 +207,7 @@ All screenshots of Step 7 are available in [Step 7 Outputs](https://github.com/H
 # Screencast Video
 
 https://drive.google.com/drive/folders/1hZ4WEXHMxNreQmcjJlQVwR3FBOff5LC-
+
+# Review from Udacity Mentor
+
+![Operationalizing_Machine_Learning](https://github.com/Harini-Pavithra/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree/blob/main/Operationalizing%20Machine%20Learning/Review/Operationalizing_Machine_Learning.JPG)
